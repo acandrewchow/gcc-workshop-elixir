@@ -1,6 +1,7 @@
 # GccWorkshopElixir
 
 **TODO: Add description**
+Introduction to Functional Programming in Elixir
 
 ## Installation
 
